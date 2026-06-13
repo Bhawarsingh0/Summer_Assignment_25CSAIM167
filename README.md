@@ -14,3 +14,19 @@
 * find a reverse number.<br>
 * product of digits of number.<br>
 * check number is palindrome or not.<br>
+
+---
+
+ <h2>Day 3 completed:</h2> 
+ * check whether a number is prime.<br>
+ * print prime numbers in  a range.<br>
+ * find GCD of two numbers.<br>
+ * find LCM of two numbers.<br>
+
+ ---
+
+  <h2>Day 4 completed:</h2> 
+  * program to generate fibonacci series.<br>
+  * find nth fibonacci term.<br>
+  * check armstrong number.<br>
+  * print armstrong number in a range.<br>

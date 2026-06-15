@@ -38,3 +38,9 @@
 * to prints factors of a number.<br>
 * find largest prime factor.<br>
   
+  ---
+  <h2>Day 6 completed:</h2>
+  * to convert decimal to binary.<br>
+  * to convert binary to decimal.<br>
+  * to count set bits in a number.<br>
+  * to find x^n without pow().<br>

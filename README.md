@@ -30,3 +30,11 @@
   * find nth fibonacci term.<br>
   * check armstrong number.<br>
   * print armstrong number in a range.<br>
+
+  ---
+<h2>Day 5 completed:</h2>
+* program to check perfect number.<br>
+* program to check strong number.<br>
+* to prints factors of a number.<br>
+* find largest prime factor.<br>
+  

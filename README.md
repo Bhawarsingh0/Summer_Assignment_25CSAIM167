@@ -47,9 +47,16 @@
 
 ---
  <h2>Day 7 completed:</h2>
- * program to recursive factorial.
- * program to recursive fibonacci.
- * program to recursive sum of digits.
- * program to recursive reverse number.
+ * program to recursive factorial.<br>
+ * program to recursive fibonacci.<br>
+ * program to recursive sum of digits.<br>
+ * program to recursive reverse number.<br>
 
+ ---
+ <h2>Day 8 completed:</h2>
+ * print half pyramid pattern.<br>
+ * print number triangle.<br>
+ * print character triangle.<br>
+ * print repeated number pattern.<br>
+ 
  

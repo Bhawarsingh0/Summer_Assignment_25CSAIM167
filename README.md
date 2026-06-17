@@ -44,3 +44,12 @@
   * to convert binary to decimal.<br>
   * to count set bits in a number.<br>
   * to find x^n without pow().<br>
+
+---
+ <h2>Day 7 completed:</h2>
+ * program to recursive factorial.
+ * program to recursive fibonacci.
+ * program to recursive sum of digits.
+ * program to recursive reverse number.
+
+ 

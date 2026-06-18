@@ -45,3 +45,25 @@
   * to count set bits in a number.<br>
   * to find x^n without pow().<br>
 
+---
+ <h2>Day 7 completed:</h2>
+ * program to recursive factorial.<br>
+ * program to recursive fibonacci.<br>
+ * program to recursive sum of digits.<br>
+ * program to recursive reverse number.<br>
+
+ ---
+ <h2>Day 8 completed:</h2>
+ * print half pyramid pattern.<br>
+ * print number triangle.<br>
+ * print character triangle.<br>
+ * print repeated number pattern.<br>
+
+ ---
+ <h2>Day 9 completed:</h2>
+ * Print reverse star pattern.<br>
+ * print reverse number triangle.<br>
+ * print repeated character pattern.<br>
+ * print hollow square pattern.<br>
+
+

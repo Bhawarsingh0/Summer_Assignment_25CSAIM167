@@ -66,4 +66,9 @@
  * print repeated character pattern.<br>
  * print hollow square pattern.<br>
 
-
+---
+ <h2>Day 10 completed:</h2>
+* print star pyramid.<br>
+* print reverse pyramid.<br>
+* print number pyramid.<br>
+* print character pyramid.<br>

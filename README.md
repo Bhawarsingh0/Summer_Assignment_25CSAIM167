@@ -72,3 +72,10 @@
 * print reverse pyramid.<br>
 * print number pyramid.<br>
 * print character pyramid.<br>
+
+---
+<h2>Day 11 completed:</h2>
+* write function to find sum of two numbers.<br>
+* write function to find maximum.<br>
+* write function to check prime.<br>
+* write function to find factorial.<br>

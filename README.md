@@ -79,3 +79,10 @@
 * write function to find maximum.<br>
 * write function to check prime.<br>
 * write function to find factorial.<br>
+
+---
+<h2>Day 12 completed:</h2>
+* write function for palindrome.<br>
+* write function for armstrong.<br>
+* write function for fibonacci.<br>
+* write function for perfect number.<br>

@@ -86,3 +86,10 @@
 * write function for armstrong.<br>
 * write function for fibonacci.<br>
 * write function for perfect number.<br>
+
+---
+<h2>Day 13 completed:</h2>
+* input and display array.<br>
+* sum and average of  array.<br>
+* largest and smallest element.<br>
+* count even and odd element.<br> 

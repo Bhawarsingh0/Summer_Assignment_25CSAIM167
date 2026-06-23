@@ -93,3 +93,10 @@
 * sum and average of  array.<br>
 * largest and smallest element.<br>
 * count even and odd element.<br> 
+
+---
+<h2>Day 14 completed:</h2>
+* program to linear search.<br>
+* frequency of an element.<br>
+* second largest element.<br>
+* find duplicates in an array.<br>

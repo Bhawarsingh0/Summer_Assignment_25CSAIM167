@@ -100,3 +100,10 @@
 * frequency of an element.<br>
 * second largest element.<br>
 * find duplicates in an array.<br>
+
+---
+<h2>Day 15 completed:</h2>
+* program to reverse array.<br>
+* program to rotate array left.<br>
+* program to rotate array right.<br>
+* program to move zeroes to end.<br>

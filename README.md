@@ -107,3 +107,10 @@
 * program to rotate array left.<br>
 * program to rotate array right.<br>
 * program to move zeroes to end.<br>
+
+---
+<h2>Day 16 completed:</h2>
+* find missing number in array.<br>
+* find maximum frequency element.<br>
+* find pair with given sum.<br>
+* remove duplicates from array.<br>

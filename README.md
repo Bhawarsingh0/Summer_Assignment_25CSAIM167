@@ -114,3 +114,10 @@
 * find maximum frequency element.<br>
 * find pair with given sum.<br>
 * remove duplicates from array.<br>
+
+---
+<h2>Day 17 completed:</h2>
+* program to merge arrays.<br>
+* program to union of arrays.<br>
+* program to intersection of arrays.<br>
+* program to find common elements.<br>

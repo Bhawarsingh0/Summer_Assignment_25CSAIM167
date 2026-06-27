@@ -121,3 +121,11 @@
 * program to union of arrays.<br>
 * program to intersection of arrays.<br>
 * program to find common elements.<br>
+
+---
+
+<h2>Day 18 completed:</h2>
+* program to bubble sort.<br>
+* program to selection sort.<br>
+* program to binary search.<br>
+* sort array in descending order.<br>

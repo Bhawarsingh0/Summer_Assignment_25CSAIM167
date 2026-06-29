@@ -129,3 +129,17 @@
 * program to selection sort.<br>
 * program to binary search.<br>
 * sort array in descending order.<br>
+
+---
+<h2>Day 19 completed:</h2>
+* program to add matrices.<br>
+* program to subtract matrices.<br>
+* program to transpose matrix.<br>
+* program to find diagonal sum.<br>
+
+---
+<h2>Day 20 completed:</h2>
+* program to multiply matrices.<br>
+* program to check symmetric matrix.<br>
+* program to find row wise sum.<br>
+* program to find column by sum.<br>

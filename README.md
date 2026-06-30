@@ -143,3 +143,10 @@
 * program to check symmetric matrix.<br>
 * program to find row wise sum.<br>
 * program to find column by sum.<br>
+
+---
+<h2>Day 21 completed:</h2>
+* find string length without strlen().<br>
+* reverse a string.<br>
+* count vowels and consonants.<br>
+* convert lower case to upper case.<br>

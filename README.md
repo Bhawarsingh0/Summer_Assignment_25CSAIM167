@@ -150,3 +150,10 @@
 * reverse a string.<br>
 * count vowels and consonants.<br>
 * convert lower case to upper case.<br>
+
+---
+<h2>Day 22 completed:</h2>
+* check palindrome string.<br>
+* count words in a sentence.<br>
+* program to character frequency.<br>
+* remove spaces from string.<br>

@@ -157,3 +157,10 @@
 * count words in a sentence.<br>
 * program to character frequency.<br>
 * remove spaces from string.<br>
+
+---
+<h2>Day 23 completed:</h2>
+* find first non-repeating character.<br>
+* find first repeating character.<br>
+* check anagram string.<br>
+* find maximum occurring character.<br>

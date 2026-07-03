@@ -164,3 +164,10 @@
 * find first repeating character.<br>
 * check anagram string.<br>
 * find maximum occurring character.<br>
+
+---
+<h2>Day 24 completed:</h2>
+* check string rotation.<br>
+* compress a string.<br>
+* find the longest word.<br>
+* remove duplicate characters.<br>

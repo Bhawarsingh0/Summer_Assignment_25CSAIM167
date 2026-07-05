@@ -178,3 +178,10 @@
 * find common characters in a strings.<br>
 * sort names alphabetically.<br>
 * sort words by length.<br>
+
+---
+<h2>Day 26 completed:</h2>
+* create number guessing game.<br>
+* create voting eligibility system.<br>
+* create ATM simulation.<br>
+* create quiz application.<br>

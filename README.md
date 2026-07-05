@@ -171,3 +171,10 @@
 * compress a string.<br>
 * find the longest word.<br>
 * remove duplicate characters.<br>
+
+---
+<h2>Day 25 completed:</h2>
+* merge two sorted array.<br>
+* find common characters in a strings.<br>
+* sort names alphabetically.<br>
+* sort words by length.<br>

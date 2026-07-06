@@ -185,3 +185,10 @@
 * create voting eligibility system.<br>
 * create ATM simulation.<br>
 * create quiz application.<br>
+
+---
+<h2>Day 27 completed:</h2>
+* create a student record management system.<br>
+* create employee management system.<br>
+* create salary management system.<br>
+* create mark sheet generation system.<br>

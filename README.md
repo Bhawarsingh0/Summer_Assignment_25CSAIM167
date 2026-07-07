@@ -192,3 +192,10 @@
 * create employee management system.<br>
 * create salary management system.<br>
 * create mark sheet generation system.<br>
+
+---
+<h2>Day 28 completed:</h2>
+* create library management system.<br>
+* create a bank account system.<br>
+* create ticket booking system.<br>
+* create contact management system.<br>

@@ -199,3 +199,10 @@
 * create a bank account system.<br>
 * create ticket booking system.<br>
 * create contact management system.<br>
+
+---
+<h2>Day 29 completed:</h2>
+* create menu driven calculator.<br>
+* create menu-driven array operations system.<br>
+* create menu driven string operations system.<br>
+* create inventory management system.<br>

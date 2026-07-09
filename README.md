@@ -206,3 +206,10 @@
 * create menu-driven array operations system.<br>
 * create menu driven string operations system.<br>
 * create inventory management system.<br>
+
+---
+<h2>Day 30 completed:</h2>
+* create a student record system using arrays and strings.<br>
+* create mini library system.<br>
+* create mini employee management system.<br>
+* develop complete mini project using arrays, strings, and functions.<br>
